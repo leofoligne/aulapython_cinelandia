@@ -9,6 +9,8 @@ elif Valor2 == Valor1:
 else:
     print(f" O valor 2 de {Valor2} é maior que o valor 1 de {Valor1}")
 print("códgo alterado com sucesso")
+print("Nova Alteração")
+
 
 
 
